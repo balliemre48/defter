@@ -1,0 +1,14 @@
+{
+  "name": "Gelir Gider Defteri",
+  "short_name": "Bütçe",
+  "description": "Kişisel gelir gider defteri",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F5F7",
+  "theme_color": "#F2F5F7",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
